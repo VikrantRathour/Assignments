@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="large_text">40sp</dimen>
+    <dimen name="heading_text">36sp</dimen>
+    <dimen name="otp_heading">28sp</dimen>
+    <dimen name="otp_para">18sp</dimen>
+    <dimen name="zero_width">0</dimen>
+
+
+<!--    margins and paddings-->
+    <dimen name="login_margin_top">120dp</dimen>
+    <dimen name="btn_margin_top">20dp</dimen>
+    <dimen name="pic_margin">10dp</dimen>
+    <dimen name="btn_margin">5dp</dimen>
+
+    <dimen name="screen_padding">50dp</dimen>
+    <dimen name="screen_padding_small">20dp</dimen>
+
+<!--    icons width and height-->
+    <dimen name="back_height_weidth">20dp</dimen>
+</resources>

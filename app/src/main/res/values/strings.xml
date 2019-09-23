@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Assignment-2</string>
+    <string name="login_to_your_account">Login to your  Account</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="log_in">LOG IN</string>
+    <string name="welcome">Welcome</string>
+    <string name="please_provide_your_basic_information">Please provide your basic information</string>
+    <string name="full_name">Full Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="gender">Gender</string>
+    <string name="date_of_birth">Date Of Birth</string>
+    <string name="user_type">User Type</string>
+    <string name="occupation">Occupation</string>
+    <string name="reg_continue">Continue</string>
+    <string name="sign_in_with_different_account">Sign in with different account?</string>
+    <string name="register">"Don't have an account?REGISTER"</string>
+    <string name="otp_verification">OTP Verification</string>
+    <string name="enter_the_verification_code_sent_to_your_number_via_sms">Enter the verification code \nsent to your number via sms.</string>
+    <string name="resend">Resend</string>
+    <string name="submit">Submit</string>
+</resources>
